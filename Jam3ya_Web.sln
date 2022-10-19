@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jam3ya_Web", "Jam3ya_Web\Jam3ya_Web.csproj", "{7B16D2F7-1D2E-4A10-B010-01195C96622A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "business", "business\business.csproj", "{AE5420FA-7719-49A0-9979-A30277B8E858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F1625C30-F97F-46ED-9481-3CE725B34EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B16D2F7-1D2E-4A10-B010-01195C96622A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B16D2F7-1D2E-4A10-B010-01195C96622A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B16D2F7-1D2E-4A10-B010-01195C96622A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B16D2F7-1D2E-4A10-B010-01195C96622A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5420FA-7719-49A0-9979-A30277B8E858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5420FA-7719-49A0-9979-A30277B8E858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5420FA-7719-49A0-9979-A30277B8E858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5420FA-7719-49A0-9979-A30277B8E858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1625C30-F97F-46ED-9481-3CE725B34EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1625C30-F97F-46ED-9481-3CE725B34EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1625C30-F97F-46ED-9481-3CE725B34EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1625C30-F97F-46ED-9481-3CE725B34EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285A3169-C32B-477C-9F2F-C71E5A020D20}
+	EndGlobalSection
+EndGlobal
